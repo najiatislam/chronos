@@ -6,9 +6,33 @@ A sleek, modern web application for planning meetings across multiple time zones
 
 **[Try Chronos Live →](https://najiatislam.github.io/chronos)**
 
-## 📸 Preview
+> To enable the live demo, go to your repo Settings → Pages → Source: `main` branch → Save
 
-![Chronos Preview](assets/preview.png)
+## 📸 Screenshots
+
+### Dashboard & Add Cities
+![Dashboard](assets/ss1.jpeg)
+
+### Timeline Comparison
+![Timeline](assets/ss2.jpeg)
+
+### World Clock
+![World Clock](assets/ss3.jpeg)
+
+### Meeting Countdown
+![Meeting Countdown](assets/ss4.jpeg)
+
+### Team Directory
+![Team Directory](assets/ss5.jpeg)
+
+### Holiday Calendar
+![Holiday Calendar](assets/ss6.jpeg)
+
+### Meeting Invite Generator
+![Meeting Invite](assets/ss7.jpeg)
+
+### Availability Windows
+![Availability](assets/ss8.jpeg)
 
 ## ✨ Features
 
