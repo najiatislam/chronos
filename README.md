@@ -2,6 +2,12 @@
 
 A sleek, modern web application for planning meetings across multiple time zones. Built with vanilla HTML, CSS, and JavaScript — no frameworks required!
 
+## 🔗 Live Demo
+
+**[Try Chronos Live →](https://najiatislam.github.io/chronos)**
+
+## 📸 Preview
+
 ![Chronos Preview](assets/preview.png)
 
 ## ✨ Features
