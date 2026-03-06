@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  ⏱️ Chronos
+    Chronos
   <br>
 </h1>
 
